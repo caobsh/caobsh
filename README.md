@@ -10,7 +10,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Michigan.
+- 🎓 &nbsp; Studying Data Science at University of Michigan.
 - 💼 &nbsp; Next, Going to work as a Software Engineer at DataBricks.
 - 🌱 &nbsp; Now, Learning more about Cloud Architecture and Systems Design.
 
