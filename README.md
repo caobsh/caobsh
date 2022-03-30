@@ -1,4 +1,4 @@
-<h2> Hi There! I'm Caobsh </h2>
+<h2> Hi there! I'm Caobsh </h2>
 
 <a href="https://www.linkedin.com/in/beishaocao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Beishao%20Cao-blue?style=flat&logo=linkedin"></a>
 <a href="caobsh@umich.edu"><img alt="Email" src="https://img.shields.io/badge/Email-caobsh%40umich.edu-blue?style=flat&logo=Gmail"></a>
